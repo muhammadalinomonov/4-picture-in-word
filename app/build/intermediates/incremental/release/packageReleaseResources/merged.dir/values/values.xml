@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green">#46EC40</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">4 picture in 1 word</string>
+    <string name="do_you_want">5 $ cut out of your money.Do you want that ?</string>
+    <string name="info">It was developed by Mamanov Dinmuhammad.Developed in his tenth lesson at the Gita Academy of programming.4 Pics 1 Word\'s gameplay is very simple: each level displays four pictures linked by one word - the player\'s aim is to work out what the word is, from a set of letters given below the pictures. The game is said to follow the freemium model: although the game is free, microtransactions are available to help the user progress through the game more quickly.</string>
+    <string name="not_enough_money">Not enough money or you\'ve have already been responding</string>
+    <string name="not_now">Not Now</string>
+    <string name="ok">Ok</string>
+    <string name="privacy">https://www.freeprivacypolicy.com/live/b8c9d989-e0f4-40f3-9aff-8ec4064d0fb2</string>
+    <string name="quit">Quit</string>
+    <string name="restart">Restart</string>
+    <string name="yes">Yes</string>
+    <style name="Theme.4PictureIn1Word" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">@color/purple_500</item>
+        
+    </style>
+</resources>

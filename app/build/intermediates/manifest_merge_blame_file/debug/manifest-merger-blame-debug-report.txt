@@ -1,0 +1,126 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="uz.gita.quizapp.uz.muhammadali.a4picturein1word"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:5:22-63
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] C:\Users\TUF\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+14        android:name="uz.gita.quizapp.uz.muhammadali.a4picturein1word.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] C:\Users\TUF\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] C:\Users\TUF\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="uz.gita.quizapp.uz.muhammadali.a4picturein1word.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] C:\Users\TUF\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] C:\Users\TUF\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:7:5-45:19
+20        android:name="uz.gita.quizapp.uz.muhammadali.a4picturein1word.App"
+20-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:8:9-28
+21        android:allowBackup="true"
+21-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:9:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.9.0] C:\Users\TUF\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+23        android:dataExtractionRules="@xml/data_extraction_rules"
+23-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:10:9-65
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:11:9-54
+27        android:icon="@drawable/main"
+27-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:12:9-38
+28        android:label="@string/app_name"
+28-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:13:9-41
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:14:9-54
+30        android:supportsRtl="true"
+30-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:15:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.Design.Light.NoActionBar" >
+32-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:16:9-62
+33        <activity
+33-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:18:9-22:40
+34            android:name="uz.gita.quizapp.uz.muhammadali.a4picturein1word.ui.play.InfoActivity"
+34-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:21:13-49
+35            android:exported="false"
+35-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:22:13-37
+36            android:screenOrientation="portrait" />
+36-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:20:13-49
+37        <activity
+37-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:23:9-30:20
+38            android:name="uz.gita.quizapp.uz.muhammadali.a4picturein1word.ui.play.PlayActivity"
+38-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:24:13-49
+39            android:exported="false"
+39-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:25:13-37
+40            android:screenOrientation="portrait" >
+40-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:26:13-49
+41            <meta-data
+41-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:27:13-29:36
+42                android:name="android.app.lib_name"
+42-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:28:17-52
+43                android:value="" />
+43-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:29:17-33
+44        </activity>
+45        <activity
+45-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:31:9-44:20
+46            android:name="uz.gita.quizapp.uz.muhammadali.a4picturein1word.ui.main.MainActivity"
+46-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:32:13-49
+47            android:exported="true"
+47-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:33:13-36
+48            android:screenOrientation="portrait" >
+48-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:34:13-49
+49            <intent-filter>
+49-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:35:13-39:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:36:17-69
+50-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:36:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:38:17-77
+52-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:38:27-74
+53            </intent-filter>
+54
+55            <meta-data
+55-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:27:13-29:36
+56                android:name="android.app.lib_name"
+56-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:28:17-52
+57                android:value="" />
+57-->C:\Users\TUF\AndroidStudioProjects\4picturein1word\app\src\main\AndroidManifest.xml:29:17-33
+58        </activity>
+59
+60        <provider
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\TUF\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+61            android:name="androidx.startup.InitializationProvider"
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\TUF\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+62            android:authorities="uz.gita.quizapp.uz.muhammadali.a4picturein1word.androidx-startup"
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\TUF\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+63            android:exported="false" >
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\TUF\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+64            <meta-data
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\TUF\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+65                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\TUF\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+66                android:value="androidx.startup" />
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\TUF\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+67            <meta-data
+67-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TUF\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+68                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TUF\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+69                android:value="androidx.startup" />
+69-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TUF\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+70        </provider>
+71    </application>
+72
+73</manifest>

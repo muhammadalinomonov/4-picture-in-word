@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p3italy.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p3italy.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_bg_answer.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/bg_answer.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p3mexico.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p3mexico.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_bg_wrong.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/bg_wrong.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_lamp.png.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/lamp.png"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_finish.png.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/finish.png"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p2turkey.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p2turkey.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p3france.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p3france.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p4koreas.jpeg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p4koreas.jpeg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p2arabia.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p2arabia.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p1japan.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p1japan.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_bg_dialog_buttons.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/bg_dialog_buttons.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/layout_item_dialog_finish.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/layout/item_dialog_finish.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_ozgaruvchan.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/ozgaruvchan.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/layout_activity_play.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/layout/activity_play.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable-v24_mouse2.png.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable-v24/mouse2.png"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/layout_activity_info.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/layout/activity_info.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p4arabia.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p4arabia.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p1korea.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p1korea.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p3uzb.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p3uzb.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p4uzb.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p4uzb.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable-v24_mouse4.png.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable-v24/mouse4.png"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p4japan.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p4japan.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p3koreasouth.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p3koreasouth.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p4france.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p4france.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p1france.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p1france.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/layout_item_dialog_less.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/layout/item_dialog_less.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable-v24_mouse1.png.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable-v24/mouse1.png"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p2mexico.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p2mexico.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p1arabia.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p1arabia.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p2poland.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p2poland.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p3japan.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p3japan.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p1italy.png.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p1italy.png"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/raw_cash_register.mp3.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/raw/cash_register.mp3"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_warning.png.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/warning.png"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_eat2ofusa.png.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/eat2ofusa.png"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p1ofuzb.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p1ofuzb.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p2japan.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p2japan.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p3arabia.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p3arabia.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p4italy.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p4italy.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p3ofusa.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p3ofusa.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p1poland.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p1poland.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p2korea.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p2korea.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_eatofusa.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/eatofusa.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p4poland.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p4poland.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_fourpicture.png.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/fourpicture.png"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p4ofusa.jpeg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p4ofusa.jpeg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/layout_item_dialog_enough.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/layout/item_dialog_enough.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p4turkey.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p4turkey.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p2uzb.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p2uzb.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_dollar.png.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/dollar.png"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p1turkey.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p1turkey.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_main.png.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/main.png"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p3poland.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p3poland.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p3turkey.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p3turkey.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_bg_variant.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/bg_variant.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p1mexico.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p1mexico.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p4mexico.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p4mexico.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_ic_level.png.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/ic_level.png"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p2italy.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p2italy.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_p2france.jpg.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/p2france.jpg"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable-v24_mouse3.png.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable-v24/mouse3.png"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_ic_back_ios_24.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/ic_back_ios_24.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/drawable_bg_correct_answer.xml.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/drawable/bg_correct_answer.xml"
+    },
+    {
+        "merged": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "uz.gita.quizapp.uz.muhammadali.a4picturein1word.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]

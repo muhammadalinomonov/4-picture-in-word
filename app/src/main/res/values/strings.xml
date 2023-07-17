@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">4 picture in 1 word</string>
+    <string name="ok">Ok</string>
+    <string name="not_enough_money">Not enough money or you\'ve have already been responding</string>
+    <string name="do_you_want">5 $ cut out of your money.Do you want that ?</string>
+    <string name="not_now">Not Now</string>
+    <string name="yes">Yes</string>
+    <string name="info">It was developed by Mamanov Dinmuhammad.Developed in his tenth lesson at the Gita Academy of programming.4 Pics 1 Word\'s gameplay is very simple: each level displays four pictures linked by one word - the player\'s aim is to work out what the word is, from a set of letters given below the pictures. The game is said to follow the freemium model: although the game is free, microtransactions are available to help the user progress through the game more quickly.</string>
+    <string name="restart">Restart</string>
+    <string name="quit">Quit</string>
+    <string name="privacy">https://www.freeprivacypolicy.com/live/b8c9d989-e0f4-40f3-9aff-8ec4064d0fb2</string>
+</resources>
